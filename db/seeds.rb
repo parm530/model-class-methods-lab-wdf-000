@@ -39,7 +39,7 @@ cape_dory.save
 laser.save
 triton.save
 sun_tracker.save
-
+ 
 ketch = Classification.create(name: "Ketch")
 sailboat = Classification.create(name: "Sailboat")
 catamaran = Classification.create(name: "Catamaran")
